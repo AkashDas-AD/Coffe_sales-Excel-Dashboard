@@ -9,13 +9,10 @@ This interactive Excel dashboard provides a comprehensive view of coffee sales d
 - Used functions like `VLOOKUP`, `INDEX`, and `MATCH` to organize and validate data.
 - Standardized the date column format for consistency.
 
----
+
 
 #### **Dashboard Creation**:
 The dashboard was designed to provide actionable insights with a focus on interactivity and usability.
-
----
-
 #### **Features**:
 
 - **Time Period Analysis**:
