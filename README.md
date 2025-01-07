@@ -8,7 +8,6 @@ This interactive Excel dashboard provides a comprehensive view of coffee sales d
 - Checked for duplicate data and ensured data integrity.
 - Used functions like `VLOOKUP`, `INDEX`, and `MATCH` to organize and validate data.
 - Standardized the date column format for consistency.
-- Rounded numerical values to two decimal places for better readability.
 
 ---
 
